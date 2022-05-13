@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BovenkampB
+- 👀 I’m interested in bettering myself. This means for me learning new skills &  experimenting alot. 
+- 🌱 I’m currently learning front-end development, since I used to do mostly back-end dev. But also diving in the deep with DevOps skills & Linux 
+- 💞️ I’m looking to collaborate on a website that scrapes the web (specific to FPV quadcopter/drone stuff at first but could be broadened up later on) for pieces of gear that work good together and specifially mix them up where the inventory is not 0.
+- 📫 How to reach me: send me an email via: fpveitje@gmail.com or add me on Discord: Puguin#3582
